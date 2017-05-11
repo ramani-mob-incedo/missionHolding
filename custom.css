@@ -6011,3 +6011,12 @@ body > * {
 
 .mx-n-20 {
   margin-top: -6rem !important; }
+
+.h-line:after {
+  content: "";
+  border-bottom: 3px solid #d1c795;
+  width: 50px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 10px; }
