@@ -6054,5 +6054,8 @@ body > * {
   border-radius: 50%;
   border: 1px solid #ccc; }
 
+#portfolio .carousel-indicators .active {
+  background: #0e2c60; }
+
 #portfolio .carousel-indicators {
   bottom: -2.5em; }
