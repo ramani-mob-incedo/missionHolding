@@ -6004,6 +6004,33 @@ a.text-gray-dark:hover {
 .invisible {
   visibility: hidden !important; }
 
+.bg-primary {
+  color: #ffffff; }
+
+.bg-success {
+  color: #ffffff; }
+
+.bg-info {
+  color: #ffffff; }
+
+.bg-faded {
+  color: #ffffff; }
+
+.bg-inverse {
+  color: #000000; }
+
+.btn-primary {
+  color: #ffffff; }
+
+.card.card-primary {
+  color: #ffffff; }
+
+.card.card-primary .card-header {
+  color: #ffffff; }
+
+.nav-item a.active {
+  color: #ffffff; }
+
 body > * {
   background-size: cover;
   background-repeat: none;
