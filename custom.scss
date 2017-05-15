@@ -174,9 +174,10 @@ body > * {
 }
 
 #portfolio .carousel-indicators li {
-  width: 10px;
-  height: 10px;
+  max-width: 15px;
+  height: 15px;
   border-radius: 50%;
+  border: 1px solid #ccc;
 }
 #portfolio .carousel-indicators {
   bottom: -2.5em;
