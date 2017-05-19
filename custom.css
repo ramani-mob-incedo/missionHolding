@@ -6060,3 +6060,6 @@ body > * {
 
 #portfolio .carousel-indicators {
   bottom: -3em; }
+
+.navbar {
+  font-size: 25px; }
